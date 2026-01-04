@@ -30,14 +30,14 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Helena Almeida",
+  name: "Maria Eduarda",
   role: "Advogada Criminalista",
 
-  whatsapp: "5531971225627",
+  whatsapp: "5531971223632",
   whatsappMessage:
-    "Olá, Dra. Helena. Preciso de atendimento jurídico criminal.",
+    "Olá, Dra. Maria Eduarda. Preciso de atendimento jurídico criminal.",
 
-  instagram: "@helenaalmeida.adv",
+  instagram: "@mariaedu.adv",
 
   hero: {
     title: "Sua liberdade deve ser tratada com seriedade.",
