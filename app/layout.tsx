@@ -2,7 +2,7 @@ import "./globals.css";
 import WhatsappFloating from "@/components/WhatsappFloating";
 
 export const metadata = {
-  title: "Helena Almeida | Advocacia Criminal",
+  title: "Maria Eduarda | Advocacia Criminal",
 };
 
 export default function RootLayout({
